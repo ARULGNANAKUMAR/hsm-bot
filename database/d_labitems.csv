@@ -1,0 +1,6 @@
+lab_item_id,name,unit
+L001,Hemoglobin,g/dL
+L002,WBC Count,cells/mcL
+L003,Platelets,cells/mcL
+L004,Blood Glucose,mg/dL
+L005,Creatinine,mg/dL

@@ -1,0 +1,31 @@
+prescription_id,admission_id,drug_name,dosage,frequency
+PR_001,ADM_001,Amoxicillin,1 tablet(s),Twice a day
+PR_002,ADM_002,Metformin,1 tablet(s),Once a day
+PR_003,ADM_003,Ibuprofen,1 tablet(s),Thrice a day
+PR_004,ADM_004,Omeprazole,2 tablet(s),Once a day
+PR_005,ADM_005,Paracetamol,1 tablet(s),Twice a day
+PR_006,ADM_006,Losartan,1 tablet(s),Once a day
+PR_007,ADM_007,Atorvastatin,1 tablet(s),Once a day
+PR_008,ADM_008,Amlodipine,1 tablet(s),Twice a day
+PR_009,ADM_009,Ciprofloxacin,1 tablet(s),Thrice a day
+PR_010,ADM_010,Azithromycin,1 tablet(s),Once a day
+PR_011,ADM_011,Lisinopril,1 tablet(s),Once a day
+PR_012,ADM_012,Levothyroxine,1 tablet(s),Once a day
+PR_013,ADM_013,Ranitidine,2 tablet(s),Twice a day
+PR_014,ADM_014,Metoprolol,1 tablet(s),Twice a day
+PR_015,ADM_015,Hydrochlorothiazide,1 tablet(s),Once a day
+PR_016,ADM_016,Insulin,10 units,Thrice a day
+PR_017,ADM_017,Diclofenac,1 tablet(s),Twice a day
+PR_018,ADM_018,Domperidone,1 tablet(s),Before meals
+PR_019,ADM_019,Salbutamol,2 puffs,As needed
+PR_020,ADM_020,Cephalexin,1 tablet(s),Twice a day
+PR_021,ADM_021,Naproxen,1 tablet(s),Twice a day
+PR_022,ADM_022,Clopidogrel,1 tablet(s),Once a day
+PR_023,ADM_023,Gliclazide,1 tablet(s),Twice a day
+PR_024,ADM_024,Allopurinol,1 tablet(s),Once a day
+PR_025,ADM_025,Rosuvastatin,1 tablet(s),Once a day
+PR_026,ADM_026,Montelukast,1 tablet(s),At night
+PR_027,ADM_027,Warfarin,1 tablet(s),Once a day
+PR_028,ADM_028,Doxycycline,1 tablet(s),Twice a day
+PR_029,ADM_029,Esomeprazole,1 tablet(s),Once a day
+PR_030,ADM_030,Amoxicillin,1 tablet(s),Once a day

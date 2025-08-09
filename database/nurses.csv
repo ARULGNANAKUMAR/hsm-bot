@@ -1,0 +1,21 @@
+nurse_id,name,department,shift,contact,years_of_experience
+NUR_001,Anita Sharma,Pathology,Day,+919712345678,5
+NUR_002,Rajiv Verma,Cardiology,Night,+919723456789,7
+NUR_003,Meena Patel,Neurology,Day,+919734567890,4
+NUR_004,Sunil Nair,Oncology,Night,+919745678901,6
+NUR_005,Priya Reddy,General Medicine,Day,+919756789012,3
+NUR_006,Arun Kumar,Pathology,Night,+919767890123,8
+NUR_007,Divya Iyer,Cardiology,Day,+919778901234,5
+NUR_008,Vikram Singh,Neurology,Night,+919789012345,9
+NUR_009,Neha Gupta,Oncology,Day,+919790123456,4
+NUR_010,Suresh Joshi,General Medicine,Night,+919701234567,7
+NUR_011,Anjali Malhotra,Pathology,Day,+919712345670,6
+NUR_012,Rahul Sharma,Cardiology,Night,+919723456781,5
+NUR_013,Shweta Verma,Neurology,Day,+919734567892,8
+NUR_014,Amit Patel,Oncology,Night,+919745678903,3
+NUR_015,Kavita Nair,General Medicine,Day,+919756789014,4
+NUR_016,Sanjay Reddy,Pathology,Night,+919767890125,7
+NUR_017,Pooja Kumar,Cardiology,Day,+919778901236,5
+NUR_018,Manoj Iyer,Neurology,Night,+919789012347,6
+NUR_019,Sunita Singh,Oncology,Day,+919790123458,9
+NUR_020,Ramesh Gupta,General Medicine,Night,+919701234569,4

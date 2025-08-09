@@ -1,0 +1,31 @@
+admission_id,patient_id,admission_date,department,doctor
+ADM_001,PAT_001,2025-01-10,Pathology,Dr. Sanjay Kumar
+ADM_002,PAT_002,2025-02-15,Cardiology,Dr. Anjali Singh
+ADM_003,PAT_003,2025-03-05,Neurology,Dr. Rajesh Patel
+ADM_004,PAT_004,2025-01-22,Oncology,Dr. Meera Iyer
+ADM_005,PAT_005,2025-02-28,General Medicine,Dr. Vikram Shah
+ADM_006,PAT_006,2025-03-15,Pathology,Dr. Rekha Menon
+ADM_007,PAT_007,2025-01-30,Cardiology,Dr. Suresh Patil
+ADM_008,PAT_008,2025-02-20,Neurology,Dr. Meera Iyer
+ADM_009,PAT_009,2025-03-02,Oncology,Dr. Arjun Singh
+ADM_010,PAT_010,2025-01-18,General Medicine,Dr. Priya Desai
+ADM_011,PAT_011,2025-02-10,Pathology,Dr. Karan Malhotra
+ADM_012,PAT_012,2025-01-25,Cardiology,Dr. Deepika Joshi
+ADM_013,PAT_013,2025-02-05,Neurology,Dr. Manoj Bajpayee
+ADM_014,PAT_014,2025-03-10,Oncology,Dr. Shalini Batra
+ADM_015,PAT_015,2025-01-12,General Medicine,Dr. Naveen Shekhar
+ADM_016,PAT_016,2025-02-18,Pathology,Dr. Rekha Pillai
+ADM_017,PAT_017,2025-03-07,Cardiology,Dr. Alok Reddy
+ADM_018,PAT_018,2025-01-29,Neurology,Dr. Ishita Banerjee
+ADM_019,PAT_019,2025-02-22,Oncology,Dr. Rajiv Menon
+ADM_020,PAT_020,2025-03-11,General Medicine,Dr. Sneha Gupta
+ADM_021,PAT_021,2025-01-14,Pathology,Dr. Tarun Jaiswal
+ADM_022,PAT_022,2025-02-27,Cardiology,Dr. Namrata Shah
+ADM_023,PAT_023,2025-03-06,Neurology,Dr. Yash Thakur
+ADM_024,PAT_024,2025-01-20,Oncology,Dr. Divya Mohan
+ADM_025,PAT_025,2025-02-12,General Medicine,Dr. Rakesh Khandelwal
+ADM_026,PAT_026,2025-03-13,Pathology,Dr. Trisha Ghosh
+ADM_027,PAT_027,2025-01-16,Cardiology,Dr. Sachin Purohit
+ADM_028,PAT_028,2025-02-08,Neurology,Dr. Anita Kulkarni
+ADM_029,PAT_029,2025-03-14,Oncology,Dr. Harshad Joshi
+ADM_030,PAT_030,2025-01-08,General Medicine,Dr. Smita Dandekar

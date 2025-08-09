@@ -1,0 +1,19 @@
+doctor_id,name,specialization,years_of_experience,contact,department
+DOC_001,Dr. Sanjay Kumar,Pathology,12,+919988776655,Pathology
+DOC_002,Dr. Anjali Singh,Cardiology,8,+919977665544,Cardiology
+DOC_003,Dr. Rajesh Patel,Neurology,15,+919966554433,Neurology
+DOC_004,Dr. Meera Iyer,Oncology,10,+919955443322,Oncology
+DOC_005,Dr. Vikram Shah,General Medicine,7,+919944332211,General Medicine
+DOC_006,Dr. Rekha Menon,Pathology,9,+919933221100,Pathology
+DOC_007,Dr. Suresh Patil,Cardiology,11,+919922110099,Cardiology
+DOC_008,Dr. Arjun Singh,Oncology,6,+919911009988,Oncology
+DOC_009,Dr. Priya Desai,General Medicine,5,+919900889977,General Medicine
+DOC_010,Dr. Karan Malhotra,Pathology,13,+919889977665,Pathology
+DOC_011,Dr. Deepika Joshi,Cardiology,14,+919878866554,Cardiology
+DOC_012,Dr. Manoj Bajpayee,Neurology,16,+919867755443,Neurology
+DOC_013,Dr. Shalini Batra,Oncology,8,+919856644332,Oncology
+DOC_014,Dr. Naveen Shekhar,General Medicine,4,+919845533221,General Medicine
+DOC_015,Dr. Rekha Pillai,Pathology,7,+919834422110,Pathology
+DOC_016,Dr. Alok Reddy,Cardiology,9,+919823311009,Cardiology
+DOC_017,Dr. Ishita Banerjee,Neurology,5,+919812200998,Neurology
+DOC_018,Dr. Rajiv Menon,Oncology,11,+919801199887,Oncology

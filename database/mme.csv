@@ -1,0 +1,21 @@
+event_id,patient_id,medication_name,event_type,dosage,timestamp,staff_id,staff_type
+MME_001,PAT_001,Amoxicillin,Administration,1 tablet,2025-01-10 14:30:00,NUR_001,Nurse
+MME_002,PAT_002,Metformin,Administration,1 tablet,2025-02-15 09:15:00,NUR_002,Nurse
+MME_003,PAT_003,Ibuprofen,Administration,1 tablet,2025-03-05 16:45:00,NUR_003,Nurse
+MME_004,PAT_004,Omeprazole,Administration,2 tablets,2025-01-22 11:20:00,NUR_004,Nurse
+MME_005,PAT_005,Paracetamol,Administration,1 tablet,2025-02-28 08:30:00,NUR_005,Nurse
+MME_006,PAT_006,Losartan,Administration,1 tablet,2025-03-15 13:15:00,NUR_006,Nurse
+MME_007,PAT_007,Atorvastatin,Administration,1 tablet,2025-01-30 10:00:00,NUR_007,Nurse
+MME_008,PAT_008,Amlodipine,Administration,1 tablet,2025-02-20 15:30:00,NUR_008,Nurse
+MME_009,PAT_009,Ciprofloxacin,Administration,1 tablet,2025-03-02 17:45:00,NUR_009,Nurse
+MME_010,PAT_010,Azithromycin,Administration,1 tablet,2025-01-18 12:00:00,NUR_010,Nurse
+MME_011,PAT_011,Lisinopril,Administration,1 tablet,2025-02-11 14:15:00,NUR_011,Nurse
+MME_012,PAT_012,Levothyroxine,Administration,1 tablet,2025-01-26 09:30:00,NUR_012,Nurse
+MME_013,PAT_013,Ranitidine,Administration,2 tablets,2025-03-07 11:45:00,NUR_013,Nurse
+MME_014,PAT_014,Metoprolol,Administration,1 tablet,2025-03-11 16:00:00,NUR_014,Nurse
+MME_015,PAT_015,Hydrochlorothiazide,Administration,1 tablet,2025-01-13 10:15:00,NUR_015,Nurse
+MME_016,PAT_016,Insulin,Administration,10 units,2025-02-19 08:45:00,NUR_016,Nurse
+MME_017,PAT_017,Diclofenac,Administration,1 tablet,2025-03-08 14:30:00,NUR_017,Nurse
+MME_018,PAT_018,Domperidone,Administration,1 tablet,2025-01-30 12:45:00,NUR_018,Nurse
+MME_019,PAT_019,Salbutamol,Administration,2 puffs,2025-02-23 09:00:00,NUR_019,Nurse
+MME_020,PAT_020,Cephalexin,Administration,1 tablet,2025-03-12 15:15:00,NUR_020,Nurse

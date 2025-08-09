@@ -1,0 +1,31 @@
+note_id,admission_id,doctor_id,note_text,timestamp
+NOTE_001,ADM_001,DOC_001,"Patient admitted with high fever and fatigue.",2025-06-01 10:15:00
+NOTE_002,ADM_002,DOC_002,"Blood sugar levels remain elevated; continue Metformin.",2025-06-01 11:30:00
+NOTE_003,ADM_003,DOC_003,"Complaining of joint pain; Ibuprofen prescribed.",2025-06-01 12:00:00
+NOTE_004,ADM_004,DOC_001,"Ulcer symptoms observed; advised Omeprazole.",2025-06-01 14:10:00
+NOTE_005,ADM_005,DOC_002,"Fever subsiding, continue Paracetamol.",2025-06-01 15:45:00
+NOTE_006,ADM_006,DOC_003,"Patient has high blood pressure.",2025-06-01 17:30:00
+NOTE_007,ADM_007,DOC_001,"Cholesterol under control; maintain dosage.",2025-06-01 18:00:00
+NOTE_008,ADM_008,DOC_002,"Mild swelling in ankles; monitor BP.",2025-06-01 19:15:00
+NOTE_009,ADM_009,DOC_003,"UTI symptoms evident; Ciprofloxacin started.",2025-06-02 08:45:00
+NOTE_010,ADM_010,DOC_001,"Bacterial infection suspected; Azithromycin given.",2025-06-02 10:00:00
+NOTE_011,ADM_011,DOC_002,"Hypertension detected; Lisinopril prescribed.",2025-06-02 10:30:00
+NOTE_012,ADM_012,DOC_003,"Thyroid imbalance; initiate Levothyroxine.",2025-06-02 11:00:00
+NOTE_013,ADM_013,DOC_001,"Indigestion complaints; Ranitidine started.",2025-06-02 12:15:00
+NOTE_014,ADM_014,DOC_002,"BP fluctuating; monitor closely.",2025-06-02 13:45:00
+NOTE_015,ADM_015,DOC_003,"Leg swelling noticed; evaluate diuretic effect.",2025-06-02 14:30:00
+NOTE_016,ADM_016,DOC_001,"Administered insulin post meal.",2025-06-02 15:20:00
+NOTE_017,ADM_017,DOC_002,"Lower back pain continues; prescribed Diclofenac.",2025-06-02 16:05:00
+NOTE_018,ADM_018,DOC_003,"Nausea improving; continue Domperidone.",2025-06-02 16:45:00
+NOTE_019,ADM_019,DOC_001,"Asthma controlled; salbutamol inhaler effective.",2025-06-02 17:15:00
+NOTE_020,ADM_020,DOC_002,"Bacterial signs persist; extended antibiotic course.",2025-06-02 18:00:00
+NOTE_021,ADM_021,DOC_003,"Joint inflammation mild; Naproxen helping.",2025-06-03 09:00:00
+NOTE_022,ADM_022,DOC_001,"Platelet count normal; no bleeding signs.",2025-06-03 10:30:00
+NOTE_023,ADM_023,DOC_002,"Blood glucose stabilizing.",2025-06-03 11:45:00
+NOTE_024,ADM_024,DOC_003,"Uric acid levels reduced.",2025-06-03 12:10:00
+NOTE_025,ADM_025,DOC_001,"Lipid profile improved; continue Rosuvastatin.",2025-06-03 13:30:00
+NOTE_026,ADM_026,DOC_002,"Night-time wheezing subsided.",2025-06-03 14:50:00
+NOTE_027,ADM_027,DOC_003,"Clotting time within normal range.",2025-06-03 15:30:00
+NOTE_028,ADM_028,DOC_001,"Infection decreasing; Doxycycline effective.",2025-06-03 16:15:00
+NOTE_029,ADM_029,DOC_002,"Acidity reduced after Esomeprazole.",2025-06-03 17:05:00
+NOTE_030,ADM_030,DOC_003,"Patient stable; discharge likely tomorrow.",2025-06-03 18:00:00
